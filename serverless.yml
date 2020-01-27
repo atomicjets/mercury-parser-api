@@ -21,7 +21,7 @@ provider:
   profile: default
   # you can overwrite defaults here
   #  stage: dev
-  #  region: us-east-1
+  region: eu-west-2
 
 custom:
   webpack:
